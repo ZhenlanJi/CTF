@@ -1,7 +1,7 @@
 # CTF
 
 This repository belongs to our submitted manuscript:
-> **CTF**: **C**ausality-Aided **T**rade-off Analysis for Machine Learning **F**airness
+> Causality-Aided Trade-off Analysis for Machine Learning Fairness
 
 ## Introduction
 
