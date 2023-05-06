@@ -196,10 +196,3 @@ print(len(dgraph))
 for line in dgraph:
     print(line)
 
-# %%
-graph_path = os.path.join(
-    '/home/zjiae/Project/Fairness-Causal-Code/data/causal_graph/', dataset+'_'+sensitive_name+'.txt')
-with open(graph_path, 'r') as fin:
-    origin_gfile = fin.read().splitlines()
-
-
